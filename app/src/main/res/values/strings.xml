@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Portfolio</string>
+    <string name="heading_text">My Nanodegree Apps !</string>
 </resources>
